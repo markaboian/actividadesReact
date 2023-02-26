@@ -1,0 +1,36 @@
+.divContainerPokemons{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.imgs{
+    width: 200px;
+}
+
+.title{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+.pokemonType{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.divPokemon{
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.paragraphPokemon{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+}
