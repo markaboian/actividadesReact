@@ -6,7 +6,7 @@ const App = () =>{
     return (
         <div className={styles.background}>
             <h2 className={styles.title}>Pokemons!</h2>
-            <ListOfPokemons tipo="fire"/>
+            <ListOfPokemons tipo="air"/>
         </div>
     )
 }
