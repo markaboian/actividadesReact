@@ -36,6 +36,7 @@ export const SpanCounter = styled.span`
     font-size: 2em;
     color: white;
     background-color: grey;
+    z-index: 100;
 `;
 
 export const ButtonOperation = styled.button`
